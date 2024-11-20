@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login Failed_Folkatech</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b8561d1-0255-49d9-93c2-3ec2d2841a99</testCaseGuid>
+</TestCaseEntity>
